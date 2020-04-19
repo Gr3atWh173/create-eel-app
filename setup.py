@@ -5,7 +5,7 @@ with open('README.md') as read_me:
     long_description = read_me.read()
 
 setup(
-    name='create_eel_app',
+    name='create-eel-app',
     version='0.1.0',
     author='gr3atwh173',
     url='https://github.com/gr3atwh173/create_eel_app',

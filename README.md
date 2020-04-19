@@ -35,12 +35,12 @@ This will package your file into a single file using ```pyinstaller``` and put t
 ## Installation
 Install it from pypi using 	```pip```
 ```
-$ pip install create_eel_app
+$ pip install create-eel-app
 ```
 or from source
 ```
-$ git clone https://github.com/gr3atwh173/create_eel_app
-$ cd create_eel_app
+$ git clone https://github.com/gr3atwh173/create-eel-app
+$ cd create-eel-app
 $ python setup.py install
 ```
 
