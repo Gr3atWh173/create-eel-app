@@ -1,5 +1,6 @@
 *.pyc 
-/dist/ 
+/dist/
+/build/
 /*.egg-info 
 .vscode
 test
