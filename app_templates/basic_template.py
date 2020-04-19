@@ -1,17 +1,3 @@
-# basic eel template
-#
-# app.py          			<-- Main python script
-# [folder with app name]  	<-- For any extra files (created dynamically)
-# app_config.py 			<-- Config file for the app
-# package.py  				<-- Config for pyinstaller
-# .gitignore				<-- Files to be ignored by git
-# README.md 				<-- README.md (created dynamically)
-# frontend/   				<-- Web folder
-#  index.html
-#  js/index.js
-#  css/style.css
-#  img/
-
 Files = {}
 
 Files["app_config.json"] = \

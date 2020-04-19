@@ -6,12 +6,12 @@ with open('README.md') as read_me:
 
 setup(
     name='create-eel-app',
-    version='0.1.1',
+    version='0.1.2',
     author='gr3atwh173',
     url='https://github.com/gr3atwh173/create_eel_app',
     packages=['app_templates'],
 	scripts=['scripts/create_eel_app.py'],
-    install_requires=['pyinstaller'],
+    install_requires=['eel', 'pyinstaller'],
     python_requires='>=3.5',
     description='To bootstrap a basic Eel app.',
     long_description=long_description,
