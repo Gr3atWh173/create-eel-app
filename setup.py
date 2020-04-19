@@ -6,7 +6,7 @@ with open('README.md') as read_me:
 
 setup(
     name='create-eel-app',
-    version='0.1.0',
+    version='0.1.1',
     author='gr3atwh173',
     url='https://github.com/gr3atwh173/create_eel_app',
     packages=['app_templates'],
