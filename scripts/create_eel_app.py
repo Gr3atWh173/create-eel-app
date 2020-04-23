@@ -105,7 +105,7 @@ def publish_app():
 		build_dir = config["build_dir"]
 		excluded_modules = config["excluded_modules"]
 		entry = config["entry"]
-		web_folder = config["web_folder"]
+		web_folder = config["web_folder"] + "/"
 	except:
 		print("Couldn't find build attributes in app_config.json")
 		return
